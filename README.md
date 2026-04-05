@@ -100,24 +100,22 @@
 
 <div align="center">
 
-<a href="https://github.com/SouviksHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouviksHub&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="70%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SouviksHub">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouviksHub&theme=github_dark" alt="Contribution Graph" width="70%" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SouviksHub&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="60%" />
 
 <br/>
 
-<a href="https://github.com/SouviksHub">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouviksHub&theme=github_dark" alt="GitHub Stats" width="34%" />
-</a>
-<a href="https://github.com/SouviksHub">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouviksHub&theme=github_dark" alt="Top Languages" width="34%" />
-</a>
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouviksHub&theme=tokyonight" alt="Stats" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouviksHub&theme=tokyonight" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouviksHub&theme=tokyonight" alt="Contribution Graph" width="70%" />
 
 </div>
 
