@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="55%" r="45%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </radialGradient>
+    <radialGradient id="aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.08"/>
+      <stop offset="40%" stop-color="#1f6feb" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b949e"/>
+      <stop offset="50%" stop-color="#f0f6fc"/>
+      <stop offset="100%" stop-color="#8b949e"/>
+    </linearGradient>
+    <linearGradient id="subtitleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#388bfd"/>
+      <stop offset="50%" stop-color="#79c0ff"/>
+      <stop offset="100%" stop-color="#388bfd"/>
+    </linearGradient>
+    <linearGradient id="monkGrad" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#30363d"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="500" fill="#0d1117"/>
+  <rect width="1500" height="500" fill="url(#glow)"/>
+  <g opacity="0.025">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#c9d1d9" stroke-width="0.5"/>
+    </pattern>
+    <rect width="1500" height="500" fill="url(#grid)"/>
+  </g>
+  <g fill="#58a6ff" opacity="0.25">
+    <circle cx="180" cy="70" r="1.2"/><circle cx="320" cy="140" r="0.8"/>
+    <circle cx="480" cy="55" r="1.3"/><circle cx="620" cy="110" r="0.9"/>
+    <circle cx="900" cy="80" r="1.1"/><circle cx="1080" cy="130" r="0.8"/>
+    <circle cx="1250" cy="65" r="1.3"/><circle cx="1380" cy="150" r="0.9"/>
+    <circle cx="90" cy="180" r="0.7"/><circle cx="1420" cy="220" r="0.7"/>
+  </g>
+  <ellipse cx="750" cy="250" rx="180" ry="160" fill="url(#aura)"/>
+  <g transform="translate(760, 310) scale(2.5)" opacity="0.12">
+    <path d="M0-33 C-18.2-33-33-18.2-33 0 C-33 10.6-27.5 19.7-19 24.8 C-17.8 25.4-17.3 24.8-17.3 24.2 C-17.3 23.7-17.3 22.1-17.3 20.1 C-24.3 21.4-26.4-10.2-26.4-10.2 C-27.5-12.7-28.7-13.7-28.7-13.7 C-30.9-15.2-28.5-15.1-28.5-15.1 C-26-15-24.6-12.7-24.6-12.7 C-22.5-9.1-19-10.1-17.4-10.8 C-17.2-12.4-16.5-13.3-15.8-13.6 C-23.2-14-31-17.2-31-29.8 C-31-32.7-29.8-35.1-28.1-37 C-28.4-37.5-29.4-40.1-27.8-43.6 C-27.8-43.6-25.2-44.2-17.8-40.9 C-14.5-41.7-10.8-42.1-7-42.1 C-3.3-42.1 0.4-41.7 3.7-40.9 C11.1-44.2 13.8-43.6 13.8-43.6 C15.3-40.1 14.3-37.5 14-37 C15.8-35.1 17-32.7 17-29.8 C17-17.2 9.2-14 1.7-13.6 C2.6-12.8 3.5-11.4 3.5-9.3 C3.5-6.0 3.5-3.4 3.5 24.2 C3.5 24.8 3.9 25.5 5.2 24.8 C13.5 19.7 19 10.6 19 0 C19-18.2-4.1-33-22.3-33Z" fill="#c9d1d9"/>
+  </g>
+  <g transform="translate(760, 320) scale(1.5)" opacity="0.3">
+    <path d="M0-33 C-18.2-33-33-18.2-33 0 C-33 10.6-27.5 19.7-19 24.8 C-17.8 25.4-17.3 24.8-17.3 24.2 C-17.3 23.7-17.3 22.1-17.3 20.1 C-24.3 21.4-26.4-10.2-26.4-10.2 C-27.5-12.7-28.7-13.7-28.7-13.7 C-30.9-15.2-28.5-15.1-28.5-15.1 C-26-15-24.6-12.7-24.6-12.7 C-22.5-9.1-19-10.1-17.4-10.8 C-17.2-12.4-16.5-13.3-15.8-13.6 C-23.2-14-31-17.2-31-29.8 C-31-32.7-29.8-35.1-28.1-37 C-28.4-37.5-29.4-40.1-27.8-43.6 C-27.8-43.6-25.2-44.2-17.8-40.9 C-14.5-41.7-10.8-42.1-7-42.1 C-3.3-42.1 0.4-41.7 3.7-40.9 C11.1-44.2 13.8-43.6 13.8-43.6 C15.3-40.1 14.3-37.5 14-37 C15.8-35.1 17-32.7 17-29.8 C17-17.2 9.2-14 1.7-13.6 C2.6-12.8 3.5-11.4 3.5-9.3 C3.5-6.0 3.5-3.4 3.5 24.2 C3.5 24.8 3.9 25.5 5.2 24.8 C13.5 19.7 19 10.6 19 0 C19-18.2-4.1-33-22.3-33Z" fill="#c9d1d9"/>
+  </g>
+  <g transform="translate(750, 210)" filter="url(#softglow)">
+    <circle cx="0" cy="-50" r="16" fill="url(#monkGrad)" stroke="#484f58" stroke-width="1.2"/>
+    <rect x="-5" y="-35" width="10" height="8" fill="url(#monkGrad)"/>
+    <path d="M-22-28 Q-28-10 -32 10 Q-32 20 -28 28 L28 28 Q32 20 32 10 Q28-10 22-28 Q12-35 0-38 Q-12-35 -22-28Z" fill="url(#monkGrad)" stroke="#484f58" stroke-width="1.2"/>
+    <path d="M-28 28 Q-40 38 -55 50 Q-58 58 -58 65 L58 65 Q58 58 55 50 Q40 38 28 28Z" fill="url(#monkGrad)" stroke="#484f58" stroke-width="1"/>
+    <path d="M-58 60 Q-48 72 -32 76 Q-16 80 0 76 Q16 80 32 76 Q48 72 58 60 Q52 82 38 88 Q18 93 0 90 Q-18 93 -38 88 Q-52 82 -58 60Z" fill="url(#monkGrad)" stroke="#484f58" stroke-width="1"/>
+    <ellipse cx="-14" cy="38" rx="9" ry="5.5" fill="url(#monkGrad)" stroke="#484f58" stroke-width="0.8"/>
+    <ellipse cx="14" cy="38" rx="9" ry="5.5" fill="url(#monkGrad)" stroke="#484f58" stroke-width="0.8"/>
+    <circle cx="0" cy="-50" r="2" fill="#58a6ff" opacity="0.3"/>
+    <ellipse cx="0" cy="15" rx="65" ry="55" fill="none" stroke="#58a6ff" stroke-width="0.6" opacity="0.12"/>
+    <ellipse cx="0" cy="15" rx="90" ry="75" fill="none" stroke="#58a6ff" stroke-width="0.4" opacity="0.07"/>
+    <ellipse cx="0" cy="15" rx="115" ry="95" fill="none" stroke="#388bfd" stroke-width="0.3" opacity="0.04"/>
+  </g>
+  <text x="750" y="430" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" fill="url(#textGrad)" letter-spacing="10">SOUVIK SARKER</text>
+  <text x="750" y="462" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="url(#subtitleGrad)" letter-spacing="5" opacity="0.85">CYBERSECURITY  ·  AI  ·  EDGE COMPUTING  ·  FULL-STACK DEV</text>
+  <line x1="580" y1="480" x2="920" y2="480" stroke="#21262d" stroke-width="0.8"/>
+  <circle cx="725" cy="486" r="1.5" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="750" cy="486" r="2" fill="#58a6ff" opacity="0.6"/>
+  <circle cx="775" cy="486" r="1.5" fill="#58a6ff" opacity="0.4"/>
+</svg>
