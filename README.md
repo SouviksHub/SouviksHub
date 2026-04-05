@@ -16,14 +16,15 @@
 
 ## 🛡️ About Me
 
-I'm a Master's student in Computer Science at the **University of Adelaide** with a deep passion for **cybersecurity**, **artificial intelligence**, and **full-stack web development**. I love building secure, intelligent applications and exploring the cutting edge of technology — from training ML models to deploying them on edge devices.
+I'm from **Bangladesh** 🇧🇩, currently based in **Adelaide, Australia** 🇦🇺, pursuing my Master's in Computer Science at the **University of Adelaide**. I have a deep passion for **cybersecurity**, **artificial intelligence**, and **full-stack web development**. I love building secure, intelligent applications and exploring the cutting edge of technology — from training ML models to deploying them on edge devices.
 
-- 🎓 **Education:** Master of Computer Science, University of Adelaide | Bachelor of Computer Science & Technology, Chongqing University of Technology (CQUT)
+- 🎓 **Education:** Master of Computer Science, University of Adelaide | Bachelor of CS & Technology, CQUT, Chongqing 🇨🇳
 - 🔐 **Cybersecurity Focus:** Built **MailSentry**, a phishing email analysis tool that detects social engineering attacks
 - 🤖 **AI & ML:** Applying machine learning to cybersecurity challenges and exploring **Large Language Models (LLMs)** for intelligent automation
 - 🌐 **Web Development:** Building full-stack applications with the **MERN stack** (MongoDB, Express.js, React, Node.js)
 - 🧠 **LLM Enthusiast:** Exploring prompt engineering, fine-tuning, RAG architectures, and LLM-powered applications
 - 📟 **Edge AI:** Planning to work with **NVIDIA Jetson Orin Nano** for deploying AI models at the edge
+- 🀄 **Languages:** English, Bengali, and currently learning **Chinese (Mandarin)**
 - 📍 Based in **Adelaide, South Australia**
 
 ---
