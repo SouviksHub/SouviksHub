@@ -106,16 +106,16 @@
 
 <table>
 <tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouviksHub&theme=tokyonight" alt="Stats" />
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouviksHub&theme=nord_dark" alt="Stats" />
 </td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouviksHub&theme=tokyonight" alt="Top Languages" />
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouviksHub&theme=nord_dark" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouviksHub&theme=tokyonight" alt="Contribution Graph" width="70%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouviksHub&theme=nord_dark" alt="Contribution Graph" width="70%" />
 
 </div>
 
