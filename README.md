@@ -100,10 +100,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SouviksHub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouviksHub&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+<a href="https://github.com/SouviksHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouviksHub&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="70%" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SouviksHub&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="60%" />
+<br/><br/>
+
+<a href="https://github.com/SouviksHub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouviksHub&theme=github_dark" alt="Contribution Graph" width="70%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/SouviksHub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouviksHub&theme=github_dark" alt="GitHub Stats" width="34%" />
+</a>
+<a href="https://github.com/SouviksHub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouviksHub&theme=github_dark" alt="Top Languages" width="34%" />
+</a>
 
 </div>
 
