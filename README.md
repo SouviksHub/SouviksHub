@@ -16,9 +16,9 @@
 
 ## 🛡️ About Me
 
-I'm a Computer Science graduate from the **University of Adelaide** with a deep passion for **cybersecurity**, **artificial intelligence**, and **full-stack web development**. I love building secure, intelligent applications and exploring the cutting edge of technology — from training ML models to deploying them on edge devices.
+I'm a Master's student in Computer Science at the **University of Adelaide** with a deep passion for **cybersecurity**, **artificial intelligence**, and **full-stack web development**. I love building secure, intelligent applications and exploring the cutting edge of technology — from training ML models to deploying them on edge devices.
 
-- 🎓 **Education:** Bachelor of Computer Science, University of Adelaide
+- 🎓 **Education:** Master of Computer Science, University of Adelaide | Bachelor of Computer Science & Technology, Chongqing University of Technology (CQUT)
 - 🔐 **Cybersecurity Focus:** Built **MailSentry**, a phishing email analysis tool that detects social engineering attacks
 - 🤖 **AI & ML:** Applying machine learning to cybersecurity challenges and exploring **Large Language Models (LLMs)** for intelligent automation
 - 🌐 **Web Development:** Building full-stack applications with the **MERN stack** (MongoDB, Express.js, React, Node.js)
