@@ -1,129 +1,63 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.svg" alt="Souvik Sarker. Learn, build, improve. Master of ICT student at UniSC." width="100%" />
+</p>
 
-<img src="https://raw.githubusercontent.com/SouviksHub/SouviksHub/main/banner.svg" alt="Banner" width="100%" />
+<h1 align="center">Hi, I'm Souvik 👋</h1>
 
-# Hey there! I'm Souvik Sarker 👋
+<p align="center">
+  <strong>Master of Information and Communications Technology student at UniSC</strong><br />
+  Building practical projects and learning how to make software useful, secure and reliable.
+</p>
 
-### Cybersecurity Researcher · AI Developer · Full-Stack Engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/souviksarker">LinkedIn</a> ·
+  <a href="https://souviks.com">Website</a> ·
+  <a href="mailto:souvik.govt@gmail.com">Email</a> ·
+  <a href="./learning-log.md">Learning log</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souviksarker)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/souviksarkersetu/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvik.govt@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://souviks.com)
+## A little about me
 
-![Profile Views](https://komarev.com/ghpvc/?username=SouviksHub&color=58a6ff&style=flat-square&label=Profile+Views)
+I'm Souvik Sarker, from Bangladesh and based in Adelaide, Australia. I study at the **University of the Sunshine Coast (UniSC)**, building on my BSc in Computer Science from CQUT in Chongqing, China.
 
-</div>
+I'm interested in Python, web development, cybersecurity and cloud systems. This profile brings together my public projects, experiments and learning notes as I build a regular coding habit.
 
----
+## Selected projects
 
-## 🧑‍💻 About Me
+| Project | What you'll find | Stage |
+| :--- | :--- | :--- |
+| [**Study Planner**](https://github.com/SouviksHub/study-planner) | A React-based study planner with class schedules, tasks, notes and a Pomodoro timer. | Personal project |
+| [**MailSentry**](https://github.com/SouviksHub/MailSentry) | An email security project with a React interface and a planned Python/FastAPI backend. | Early prototype |
+| [**Dotfiles**](https://github.com/SouviksHub/dotfiles) | My Vim, tmux and shell configuration for a repeatable development setup. | Personal toolkit |
+| [**Java Weather Service**](https://github.com/SouviksHub/Assignment2DS) | A socket-based aggregation server and clients for exchanging weather data. | Earlier coursework |
 
-- 🇧🇩 Originally from **Bangladesh**, currently based in **Adelaide, Australia** 🇦🇺
-- 🎓 **Master of Computer Science** @ University of Adelaide
-- 🎓 **BSc in Computer Science** @ CQUT, Chongqing, China
-- 🛡️ Passionate about **Cybersecurity**, **AI/ML**, and **Edge Computing**
-- 💻 Full-stack developer with expertise in the **MERN Stack** & **Next.js**
-- 🤖 Exploring **LLMs**, **AI Agents**, and **NVIDIA Jetson** for Edge AI
-- 🌏 Learning **Chinese (Mandarin)** 🇨🇳
-- ⚡ Fun fact: I believe the best security mindset comes from thinking like an attacker
+## What I'm learning
 
----
+| Focus | Next steps |
+| :--- | :--- |
+| **Python** | Small programs, clear functions, file handling and useful tests |
+| **Linux and Git** | Command-line practice, branches and clear commit messages |
+| **Web development** | Improve existing projects and document how to run them |
+| **Cloud and reliability** | Build Linux and Docker foundations, then explore Kubernetes |
+| **Cybersecurity and AI** | Explore practical security problems and evaluate ideas carefully |
 
-## 🛠️ Tech Stack
+## Learning at UniSC
 
-**Languages**
+My current study areas include programming, data visualisation and cybersecurity ethics. I use GitHub to organise my work and develop projects I can explain, run and improve.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Public repositories contain selected work. Some coursework stays private. My personal projects and notes are not official UniSC resources.
 
-**Web Development (MERN Stack + Next.js)**
+## Building a regular coding habit
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Learn one thing. Build something small. Check it works. Write down what changed.**
 
-**Cybersecurity & AI**
+My regular practice starts on **22 October 2026**. I'll record completed work in my [learning log](./learning-log.md), with links to the code and a short note about what I learned.
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**LLM & AI Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+For new projects, I use a [README template](./templates/PROJECT-README.md) to explain the problem, setup, examples, checks and next steps.
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**MailSentry**](https://github.com/SouviksHub/MailSentry) | AI-powered phishing email detection using ML classifiers |
-| [**Regexa1**](https://github.com/SouviksHub/Regexa1) | Regex pattern matching and validation toolkit |
-| [**Study Planner**](https://github.com/SouviksHub/study-planner) | Smart academic planner for university students |
-| [**SecureSoftwareEngineering**](https://github.com/TufanKesertoFun/SecureSoftwareEngineeringGroupProject) | Secure software development group project |
-
----
-
-## 🎯 What I'm Working Toward
-
-- 🔬 Building **AI-powered cybersecurity tools** for threat detection
-- 🧠 Deploying **LLMs on edge devices** using NVIDIA Jetson
-- 🌐 Contributing to **open-source security** projects
-- 📝 Writing about **cybersecurity** and **AI research**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SouviksHub&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="60%" />
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouviksHub&theme=nord_dark" alt="Stats" />
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouviksHub&theme=nord_dark" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouviksHub&theme=nord_dark" alt="Contribution Graph" width="70%" />
-
-</div>
-
----
-
-<div align="center">
-
-*"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*
-— **Gene Spafford**
-
-</div>
+<p align="center">
+  Open to learning with others and sharing useful ideas.<br />
+  <a href="https://github.com/SouviksHub?tab=repositories">Browse my repositories</a>
+</p>
