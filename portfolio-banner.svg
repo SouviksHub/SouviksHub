@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Souvik Sarker | Software development and cybersecurity</title>
+  <desc id="desc">A navy and teal portfolio banner for Souvik Sarker.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b172a"/>
+      <stop offset="1" stop-color="#142b40"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M0 300H1200" stroke="url(#accent)" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="69" fill="#5eead4" font-size="16" font-weight="700" letter-spacing="3">SOFTWARE. SECURITY. SYSTEMS.</text>
+    <text x="60" y="140" fill="#f8fafc" font-size="56" font-weight="700">Souvik Sarker</text>
+    <text x="64" y="186" fill="#cbd5e1" font-size="22">Practical software. Thoughtful design.</text>
+    <text x="64" y="246" fill="#93c5d6" font-size="18">Python · Web development · Security · Cloud</text>
+  </g>
+  <g transform="translate(890 78)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="228" height="160" rx="14" stroke="#345369" stroke-width="2" fill="#0b172a"/>
+    <path d="M0 35H228" stroke="#345369" stroke-width="2"/>
+    <circle cx="19" cy="18" r="4" fill="#5eead4"/>
+    <circle cx="34" cy="18" r="4" fill="#7dd3fc"/>
+    <circle cx="49" cy="18" r="4" fill="#64748b"/>
+    <path d="M39 71L62 91L39 111" stroke="#5eead4" stroke-width="5"/>
+    <path d="M81 111H118" stroke="#7dd3fc" stroke-width="5"/>
+    <path d="M39 137H184" stroke="#345369" stroke-width="3"/>
+  </g>
+</svg>
