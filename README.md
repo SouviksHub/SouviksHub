@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Souvik Sarker. Learn, build, improve. Python, web development, security and cloud." width="100%" />
+  <img src="./profile-banner.svg" alt="Souvik Sarker. Learn, build, improve. Python, web development, security and cloud." width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Souvik 👋</h1>
