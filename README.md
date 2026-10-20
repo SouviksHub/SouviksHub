@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./banner.svg" alt="Souvik Sarker. Learn, build, improve. Master of ICT student at UniSC." width="100%" />
+  <img src="./banner.svg" alt="Souvik Sarker. Learn, build, improve. Python, web development, security and cloud." width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Souvik 👋</h1>
 
 <p align="center">
-  <strong>Master of Information and Communications Technology student at UniSC</strong><br />
+  <strong>Learning by building</strong><br />
   Building practical projects and learning how to make software useful, secure and reliable.
 </p>
 
@@ -18,7 +18,7 @@
 
 ## A little about me
 
-I'm Souvik Sarker, from Bangladesh and based in Adelaide, Australia. I study at the **University of the Sunshine Coast (UniSC)**, building on my BSc in Computer Science from CQUT in Chongqing, China.
+I'm Souvik Sarker, from Bangladesh and based in Adelaide, Australia. I enjoy building useful software and learning through hands-on projects.
 
 I'm interested in Python, web development, cybersecurity and cloud systems. This profile brings together my public projects, experiments and learning notes as I build a regular coding habit.
 
@@ -41,11 +41,11 @@ I'm interested in Python, web development, cybersecurity and cloud systems. This
 | **Cloud and reliability** | Build Linux and Docker foundations, then explore Kubernetes |
 | **Cybersecurity and AI** | Explore practical security problems and evaluate ideas carefully |
 
-## Learning at UniSC
+## How I learn
 
-My current study areas include programming, data visualisation and cybersecurity ethics. I use GitHub to organise my work and develop projects I can explain, run and improve.
+My current learning areas include programming, data visualisation and cybersecurity ethics. I use GitHub to organise my work and develop projects I can explain, run and improve.
 
-Public repositories contain selected work. Some coursework stays private. My personal projects and notes are not official UniSC resources.
+Public repositories contain selected projects, experiments and personal learning notes.
 
 ## Building a regular coding habit
 

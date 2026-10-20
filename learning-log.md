@@ -1,6 +1,6 @@
 # Learning log
 
-Small projects, useful lessons and steady practice alongside my Master of ICT at UniSC.
+Small projects, useful lessons and steady coding practice.
 
 **Planned start: 22 October 2026**
 
